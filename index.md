@@ -1,5 +1,6 @@
 ---
-title: Welcome to Dev's blog
+title: Welcome to the RJafroc Times
+author: Dev P Chakraborty
 ---
 
 # Introduction
