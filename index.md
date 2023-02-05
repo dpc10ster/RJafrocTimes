@@ -11,7 +11,7 @@ This website is intended as a documentation and blogging platform for my AI/FROC
 * AI = Artificial Intelligence, formerly known as CAD (in the medical imaging context); 
 * CAD = Computer Aided Detection;
 * FROC = Free-response Receiver Operating Characteristic, data collected in a visual search task;
-* ROC = Receiver Operating Characteristic.
+* ROC = Receiver Operating Characteristic, data collected in a binary classification task.
 
 
 # Four repositories
