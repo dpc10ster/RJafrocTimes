@@ -1,7 +1,7 @@
 ---
 title: "Welcome to Dev C's first blog"
-date: 2019-01-20
+date: 2023-02-04
 ---
 
 
-If you do edit the title, make sure there are hyphens between your words. If your blog post date doesn't follow the correct date convention, you'll receive an error and your site won't build. For more information,If you do edit the title, make sure there are hyphens between your words. If your blog post date doesn't follow the correct date convention, you'll receive an error and your site won't build. For more information,If you do edit the title, make sure there are hyphens between your words. If your blog post date doesn't follow the correct date convention, you'll receive an error and your site won't build. For more information,If you do edit the title, make sure there are hyphens between your words. If your blog post date doesn't follow the correct date convention, you'll receive an error and your site won't build. For more information,If you do edit the title, make sure there are hyphens between your words. If your blog post date doesn't follow the correct date convention, you'll receive an error and your site won't build. For more information,If you do edit the title, make sure there are hyphens between your words. If your blog post date doesn't follow the correct date convention, you'll receive an error and your site won't build. For more information,If you do edit the title, make sure there are hyphens between your words. If your blog post date doesn't follow the correct date convention, you'll receive an error and your site won't build. For more information,
+I am learning how to do this website .... so please be patient
