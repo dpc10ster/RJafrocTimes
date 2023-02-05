@@ -16,7 +16,7 @@ This website is intended as a documentation and blogging platform for my AI/FROC
 
 # Four repositories
 
-* This website describes four [repositories](https://github.com/dpc10ster) covering **observer performance and artificial intelligence systems modeling, analysis and validation**. Three of the repositories contain the source codes for online books.
+* This website describes four [repositories](https://github.com/dpc10ster) addressing **observer performance and artificial intelligence systems modeling, analysis and validation**. Three of the repositories contain the source codes for online books.
 * The repositories are:
     + [`RJafroc`](https://dpc10ster.github.io/RJafroc/) is the `R` software package that provides the common thread on which the online books depend; 
     + [`RJafrocQuickStart`](https://dpc10ster.github.io/RJafrocQuickStart) is an online book for those already somewhat familiar running Windows JAFROC. The obsolete Windows program has been replaced by `RJafroc`. This book dives into how to use `RJafroc` to analyze ROC or FROC datasets;
