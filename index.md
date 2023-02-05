@@ -8,8 +8,8 @@ This website is intended as a documentation and blogging platform for my researc
 
 # Glossary
 
-* AI = Artifical Intelligence, formerly known as  
-* CAD = Computer Aided Detection in the medical imaging context;
+* AI = Artificial Intelligence, formerly known as CAD in the medical imaging context; 
+* CAD = Computer Aided Detection;
 * FROC = Free-response Receiver Operating Characteristic, data collected in a visual search task;
 * ROC = Receiver Operating Characteristic.
 
@@ -48,7 +48,7 @@ The online books are under development and parts marked TBA (to be added) should
 
 * HTML documentation for `RJafroc` (functions and update history) is available [here](https://dpc10ster.github.io/RJafroc/). The software is fairly stable and undergoing occasional updates. 
 
-* The HTML online book `RJafrocQuickStart` is available [here](https://dpc10ster.github.io/RJafrocQuickStart/). A link is provided there to download the pdf book. Both are being continually updated (as of December 2021).  
+* The HTML online book `RJafrocQuickStart` is available [here](https://dpc10ster.github.io/RJafrocQuickStart/). A link is provided there to download the pdf book. Both are being continually updated (as of December 2022).  
 
 * The HTML online book `RJafrocRocBook` is available [here](https://dpc10ster.github.io/RJafrocRocBook/). A link is provided there to download the pdf book. Both of them are being continually updated.  
 
