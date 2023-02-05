@@ -36,7 +36,7 @@ jobs:
     steps:
       # We'll need to check out the repository so that we can edit the README
       - name: Checkout
-        uses: actions/checkout@v3.3.0
+        uses: actions/checkout@v3
         with:
           fetch-depth: 0 # Let's get all the branches
 
@@ -48,24 +48,19 @@ jobs:
             echo "Current step is not 0"
             exit 0
           fi
-
           echo "Make a branch"
           BRANCH=my-pages
           git checkout -b $BRANCH
-
           echo "Create config and homepage files"
           touch _config.yml
           printf "%s\n%s\n%s\n\n" "---" "title: Welcome to my blog" "---" > index.md
-
           echo "Make a commit"
           git config user.name github-actions
           git config user.email github-actions@github.com
           git add _config.yml index.md
           git commit --message="Create config and homepages files"
-
           echo "Push"
           git push --set-upstream origin $BRANCH
-
           echo "Make a pull request"
           # Reference https://cli.github.com/manual/gh_pr_create
           gh pr create --title "GitHub Pages" --body "GitHub Pages"
