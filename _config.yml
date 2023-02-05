@@ -1,3 +1,5 @@
+plugins:
+  - jekyll-feed
 theme: minima
 title: AI/FROC optimization research
 author: Dev P Chakraborty
