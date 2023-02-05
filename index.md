@@ -4,7 +4,14 @@ title: Welcome to AI FROC Research
 
 # Overview
 
-This website is intended provides documentation and blogs for 
+This website is intended as a documentation and blogging platform for my research interests. 
+
+# Glossary
+
+* AI = Artifical Intelligence, formerly known as  
+* CAD = Computer Aided Detection in the medical imaging context;
+* FROC = Free-response Receiver Operating Characteristic, data collected in a visual search task;
+* ROC = Receiver Operating Characteristic.
 
 
 # Introduction
