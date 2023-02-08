@@ -78,5 +78,13 @@ Knowing the individual performances allows principled optimization of reader or 
 * However, many users find the Windows JAFROC` software both easy to use and useful. If you still need Windows `JAFROC` software it is still available [here](https://github.com/dpc10ster/WindowsJafroc).
 
 
+## A note on the online distribution mechanism of the book {-}
+
+* In the hard-copy version of my 2017 book `[@chakraborty2017observer]` the online distribution mechanism was `BitBucket`. 
+* `BitBucket` allows code sharing within a _closed_ group of a few users (e.g., myself and a grad student). 
+* Since the purpose of open-source code is to encourage collaborations, this was, in hindsight, an unfortunate choice. Moreover, as my experience with R-packages grew, it became apparent that the vast majority of R-packages are shared on `GitHub`, not `BitBucket`. 
+* For these reasons I have switched to `GitHub`. All previous instructions pertaining to `BitBucket` are obsolete.
+* In order to access `GitHub` material one needs to create a (free) `GitHub` account. 
+* Go to [this link](https://github.com) and click on `Sign Up`.
 
 
