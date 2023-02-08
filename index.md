@@ -76,6 +76,7 @@ Knowing the individual performances allows principled optimization of reader or 
 * If you still need Windows `JAFROC` software it is still available [here](https://github.com/dpc10ster/WindowsJafroc).
 
 
+
 This, and other considerations, led me to conclude that an update to the book is needed. 
 
 This website links to the latest software and three online books that use the software and extend the 2017-book. 
@@ -108,9 +109,4 @@ The radiological search model (RSM), described [here](https://dpc10ster.github.i
 
 Knowing the individual performances allows principled optimization of reader or AI algorithm performance.
 
-# Relation to Windows software
-
-* `RJafroc` extends Windows `JAFROC` software and runs on multiple platforms.
-* Originally uploaded in 2004, the Windows software is many generations behind the software available on this website. However, many users find it to be easy to use and useful. Vignettes in `RJafroc` and the online book available [here](https://dpc10ster.github.io/RJafrocQuickStart/) should allow one to quickly transition to `RJafroc`.
-* If you still need Windows `JAFROC` software it is still available [here](https://github.com/dpc10ster/WindowsJafroc).
 
