@@ -78,7 +78,7 @@ Knowing the individual performances allows principled optimization of reader or 
 * However, many users find the Windows JAFROC` software both easy to use and useful. If you still need Windows `JAFROC` software it is still available [here](https://github.com/dpc10ster/WindowsJafroc).
 
 
-## A note on the online distribution mechanism of the book {-}
+# A note on the online distribution mechanism of the book {-}
 
 * In the hard-copy version of my 2017 book `[@chakraborty2017observer]` the online distribution mechanism was `BitBucket`. 
 * `BitBucket` allows code sharing within a _closed_ group of a few users (e.g., myself and a grad student). 
