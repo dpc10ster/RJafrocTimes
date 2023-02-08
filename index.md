@@ -41,18 +41,22 @@ This, and other considerations, led me to conclude that an update to the book is
 
 This website links to the latest software and three online books that use the software and extend the 2017-book. 
 
-The online books are under development and parts marked TBA (to be added) should be ignored. Each chapter has a **How much finished** section giving a rough idea of the extent to which that chapter has been completed.
+The online books are under development and parts marked TBA (to be added) should be ignored. Each chapter has a **How Much Finished (HMF)** section giving a rough idea of the extent to which that chapter has been completed.
 
 
 # Documentation
 
 * HTML documentation for `RJafroc` (functions and update history) is available [here](https://dpc10ster.github.io/RJafroc/). The software is fairly stable and undergoing occasional updates. 
 
-* The HTML online book `RJafrocQuickStart` is available [here](https://dpc10ster.github.io/RJafrocQuickStart/). A link is provided there to download the pdf book. Both are being continually updated (as of December 2022).  
+* The HTML online book `RJafrocQuickStart` is available [here](https://dpc10ster.github.io/RJafrocQuickStart/). 
+* Go [here](https://github.com/dpc10ster/RJafrocQuickStart/blob/gh-pages/RJafrocQuickStart.pdf) and then click on `Download` to get the `RJafrocQuickStart.pdf` file. 
+* Both are being continually updated (as of December 2022).  
 
-* The HTML online book `RJafrocRocBook` is available [here](https://dpc10ster.github.io/RJafrocRocBook/). A link is provided there to download the pdf book. Both of them are being continually updated.  
+* The HTML online book `RJafrocRocBook` is available [here](https://dpc10ster.github.io/RJafrocRocBook/). Go [here](https://github.com/dpc10ster/RJafrocRocBook/blob/gh-pages/RJafrocRocBook.pdf) and click on `Download` to get the `RJafrocRocBook.pdf` file. Both are being continually updated (as of December 2022).  
 
-* The HTML online book `RJafrocFrocBook` is available [here](https://dpc10ster.github.io/RJafrocFrocBook/). A link is provided there to download the pdf book. Both are being continually updated.  
+
+* The HTML online book `RJafrocFrocBook` is available [here](https://dpc10ster.github.io/RJafrocFrocBook/). Go [here](https://github.com/dpc10ster/RJafrocFrocBook/blob/gh-pages/RJafrocFrocBook.pdf) and then click on `Download` to get the `RJafrocFrocBook.pdf` file. Both are being continually updated (as of December 2022).  
+
 
 
 # Applications
