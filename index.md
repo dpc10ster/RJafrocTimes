@@ -36,7 +36,7 @@ Unlike the print book the online books described in the links contain embedded R
 This, and other considerations, led me to conclude that an update to the book was needed. To keep the book-length within a reasonable limit I decided to split the original book into three books: a quick start book for those needing to apply the methods with minimum theoretical fuss, a book focusing on ROC methodology and, my specialty, a book focusing on FROC methodology. 
 
 
-# Documentation
+# Documentation: HTML and pdf files
 
 * HTML documentation for the `RJafroc` software (i.e., datasets, functions and update history) is available [here](https://dpc10ster.github.io/RJafroc/). The software is fairly stable and undergoing occasional updates. 
 
