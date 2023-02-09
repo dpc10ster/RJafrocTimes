@@ -1,10 +1,6 @@
 ---
 title: Welcome to Dev Chakraborty's AI/FROC Research
 author: Dev P. Chakraborty (dpc10ster@gmail.com)
-date: February 8 2023
-bibliography: myRefs.bib
-biblio-style: apalike
-link-citations: yes
 ---
 
 # Overview
@@ -35,30 +31,22 @@ The first CRAN-posted version of `RJafroc` was used to support the R-code exampl
 
 Since its publication in 2017 `RJafroc`, on which the `R` code examples in the print book depend, has evolved considerably, causing many of the examples to "break" if one uses the most current version of `RJafroc`. The code will still run if one uses [`RJafroc` 0.0.1](https://cran.r-project.org/src/contrib/Archive/RJafroc/) but this is sub-optimal as it misses out on many of the software improvements made since the print book appeared.
 
-Unlike the print book the online books described in the links contain embedded R code (using the `bookdown` R package). Accordingly the books and the software are automatically synchronized and any software inconsistencies will throw errors in GitHub Actions, see [here](https://github.com/dpc10ster/RJafrocFrocBook/actions) for an example. 
+Unlike the print book the online books described in the links contain embedded R code (using the `bookdown` R package). Accordingly the books and the software are automatically synchronized and any software inconsistencies will throw errors in GitHub Actions, see [here](https://github.com/dpc10ster/RJafrocFrocBook/actions) for some examples. 
 
-The first CRAN-posted version of `RJafroc` was used to support the R-code examples in the book: Chakraborty DP: Observer Performance Methods for Diagnostic Imaging - Foundations, Modeling, and Applications with R-Based Examples, Taylor-Francis LLC, 2017. 
-
-Since its publication in 2017 `RJafroc`, on which the `R` code examples in the print book depend, has evolved considerably, causing many of the examples to "break" if one uses the most current version of `RJafroc`. The code will still run if one uses [`RJafroc` 0.0.1](https://cran.r-project.org/src/contrib/Archive/RJafroc/) but this is sub-optimal as it misses out on many of the software improvements made since the print book appeared.
-
-Unlike the print book the online books described in the links contain embedded R code (using the `bookdown` R package). Accordingly the books and the software are automatically synchronized and any software inconsistencies will throw errors in GitHub Actions, see [here](https://github.com/dpc10ster/RJafrocFrocBook/actions) for an example. 
-
-This, and other considerations, led me to conclude that an update to the book is needed. 
-
-This website links to the latest software and three online books that use the software and extend the 2017-book. 
-
-The online books are under development and parts marked TBA (to be added) should be ignored. Each chapter has a **How Much Finished (HMF)** section giving a rough idea of the extent to which that chapter has been completed.
+This, and other considerations, led me to conclude that an update to the book was needed. To keep the book-length within a reasonable limit I decided to split the original book into three books: a quick start book for those needing to apply the methods with minimum theoretical fuss, a book focusing on ROC methodology and, my specialty, a book focusing on FROC methodology. 
 
 
 # Documentation
 
-* HTML documentation for `RJafroc` (datasets, functions and update history) is available [here](https://dpc10ster.github.io/RJafroc/). The software is fairly stable and undergoing occasional updates. 
+* HTML documentation for the `RJafroc` software (i.e., datasets, functions and update history) is available [here](https://dpc10ster.github.io/RJafroc/). The software is fairly stable and undergoing occasional updates. 
 
 * The HTML online book `RJafrocQuickStart` is available [here](https://dpc10ster.github.io/RJafrocQuickStart/). Go [here](https://github.com/dpc10ster/RJafrocQuickStart/blob/gh-pages/RJafrocQuickStart.pdf) and then click on `Download` to get the `RJafrocQuickStart.pdf` file. 
 
 * The HTML online book `RJafrocRocBook` is available [here](https://dpc10ster.github.io/RJafrocRocBook/). Go [here](https://github.com/dpc10ster/RJafrocRocBook/blob/gh-pages/RJafrocRocBook.pdf) and click on `Download` to get the `RJafrocRocBook.pdf` file. 
 
 * The HTML online book `RJafrocFrocBook` is available [here](https://dpc10ster.github.io/RJafrocFrocBook/). Go [here](https://github.com/dpc10ster/RJafrocFrocBook/blob/gh-pages/RJafrocFrocBook.pdf) and then click on `Download` to get the `RJafrocFrocBook.pdf` file. 
+
+The online books are under development and parts marked TBA (to be added) should be ignored. Each chapter has a **How Much Finished (HMF)** section giving a rough idea of the extent to which that chapter has been completed. I expect to complete the books in about two years (~Dec 2015).
 
 
 # Applications
@@ -85,8 +73,8 @@ Knowing the individual performances allows principled optimization of reader or 
 
 # A note on the online distribution mechanism of the book {-}
 
-* In the hard-copy version of my 2017 book [@chakraborty2017observer] the online distribution mechanism was `BitBucket`. 
-* `BitBucket` allows code sharing within a _closed_ group of a few users (e.g., myself and a grad student). 
+* In the hard-copy version of my 2017 book the online distribution mechanism was `BitBucket`. 
+* At the time I used it `BitBucket` allowed code sharing within a _closed_ group of a few users (e.g., myself and a grad student). 
 * Since the purpose of open-source code is to encourage collaborations, this was, in hindsight, an unfortunate choice. Moreover, as my experience with R-packages grew, it became apparent that the vast majority of R-packages are shared on `GitHub`, not `BitBucket`. 
 * For these reasons I have switched to `GitHub`. All previous instructions pertaining to `BitBucket` are obsolete.
 * In order to access `GitHub` material one needs to create a (free) `GitHub` account. 
