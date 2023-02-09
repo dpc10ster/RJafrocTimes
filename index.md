@@ -46,7 +46,7 @@ This, and other considerations, led me to conclude that an update to the book wa
 
 * The HTML online book `RJafrocFrocBook` is available [here](https://dpc10ster.github.io/RJafrocFrocBook/). Go [here](https://github.com/dpc10ster/RJafrocFrocBook/blob/gh-pages/RJafrocFrocBook.pdf) and then click on `Download` to get the `RJafrocFrocBook.pdf` file. 
 
-The online books are under development and parts marked TBA (to be added) should be ignored. Each chapter has a **How Much Finished (HMF)** section giving a rough idea of the extent to which that chapter has been completed. I expect to complete the books in about two years (~Dec 2015).
+The online books are under development and parts marked TBA (to be added) should be ignored. Each chapter has a **How Much Finished (HMF)** section giving a rough idea of the extent to which that chapter has been completed. I expect to complete the books in about three years (~Dec 2025).
 
 
 # Applications
