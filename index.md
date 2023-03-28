@@ -45,7 +45,7 @@ This, and other considerations, led me to conclude that an update to the book wa
 
 * The HTML online book `RJafrocRocBook` is available [here](https://dpc10ster.github.io/RJafrocRocBook/). Go [here](https://github.com/dpc10ster/RJafrocRocBook/blob/gh-pages/RJafrocRocBook.pdf) and click on `Download` to get the `RJafrocRocBook.pdf` file. 
 
-* The HTML online book `RJafrocSigTestBook` is available [here](https://dpc10ster.github.io/RJafrocSigTestBook/). Go [here](https://github.com/dpc10ster/RJafrocSigTestBook/blob/gh-pages/RJafrocRocBook.pdf) and click on `Download` to get the `RJafrocSigTestBook.pdf` file. 
+* The HTML online book `RJafrocSigTestBook` is available [here](https://dpc10ster.github.io/RJafrocSigTestBook/). Go [here](https://github.com/dpc10ster/RJafrocSigTestBook/blob/gh-pages/RJafrocSigTestBook.pdf) and click on `Download` to get the `RJafrocSigTestBook.pdf` file. 
 
 * The HTML online book `RJafrocFrocBook` is available [here](https://dpc10ster.github.io/RJafrocFrocBook/). Go [here](https://github.com/dpc10ster/RJafrocFrocBook/blob/gh-pages/RJafrocFrocBook.pdf) and then click on `Download` to get the `RJafrocFrocBook.pdf` file. 
 
