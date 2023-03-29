@@ -1,8 +1,17 @@
 # AI/FROC Research
 
 
-This repository organizes the `R` software and `bookdown`-based books in my GitHub repositories. 
+## Organization
+
+This repository organizes the `R` software and `bookdown`-based books in the `dpc10ster` GitHub account. 
 
 
-The following link has the details of the organization and the new user should start [here](https://dpc10ster.github.io/ai-froc-research/).
+## Link
 
+The following link has details on how the software and books are organized:
+
+[**link**](https://dpc10ster.github.io/ai-froc-research/)
+
+**The user should start by visiting the above link.**
+
+Good luck!
