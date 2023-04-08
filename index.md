@@ -37,13 +37,16 @@ Unlike the print book (and the supplementary material) the online books describe
 This, and other considerations, led me to conclude that an update to the book was needed. To keep the book-length within a reasonable limit I decided to split the original book into four books: a quick start book for those needing to apply the methods with minimum theoretical fuss, a book focusing on ROC methodology, a book on the significance testing procedure and, my specialty, a book focusing on FROC methodology. 
 
 
-# Documentation: HTML and pdf files
+# Documentation: HTML files
+
+Support for the pdf file has been removed in the ROC book (4/8/23) as plots produced by `plotly` do not compile when using this format. 
+
 
 * HTML documentation for the `RJafroc` software (i.e., datasets, functions and update history) is available [here](https://dpc10ster.github.io/RJafroc/). The software is fairly stable and undergoing occasional updates. 
 
 * The HTML online book `RJafrocQuickStart` is available [here](https://dpc10ster.github.io/RJafrocQuickStart/). Go [here](https://github.com/dpc10ster/RJafrocQuickStart/blob/gh-pages/RJafrocQuickStart.pdf) and then click on `Download` to get the `RJafrocQuickStart.pdf` file. 
 
-* The HTML online book `RJafrocRocBook` is available [here](https://dpc10ster.github.io/RJafrocRocBook/). Go [here](https://github.com/dpc10ster/RJafrocRocBook/blob/gh-pages/RJafrocRocBook.pdf) and click on `Download` to get the `RJafrocRocBook.pdf` file. 
+* The HTML online book `RJafrocRocBook` is available [here](https://dpc10ster.github.io/RJafrocRocBook/).  
 
 * The HTML online book `RJafrocSigTestBook` is available [here](https://dpc10ster.github.io/RJafrocSigTestBook/). Go [here](https://github.com/dpc10ster/RJafrocSigTestBook/blob/gh-pages/RJafrocSigTestBook.pdf) and click on `Download` to get the `RJafrocSigTestBook.pdf` file. 
 
