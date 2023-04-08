@@ -15,7 +15,7 @@ This website is intended as a documentation and blogging platform for my AI/FROC
 * ROC = Receiver Operating Characteristic, data collected in a binary classification task.
 
 
-# The four primary repositories
+# The primary repositories
 
 * This website describes five [repositories](https://github.com/dpc10ster) addressing **observer performance and artificial intelligence systems modeling, analysis and validation**. Four of the repositories contain the source codes for online books.
 * The repositories are:
@@ -37,20 +37,28 @@ Unlike the print book (and the supplementary material) the online books describe
 This, and other considerations, led me to conclude that an update to the book was needed. To keep the book-length within a reasonable limit I decided to split the original book into four books: a quick start book for those needing to apply the methods with minimum theoretical fuss, a book focusing on ROC methodology, a book on the significance testing procedure and, my specialty, a book focusing on FROC methodology. 
 
 
-# Documentation: HTML files
-
-Support for the pdf file has been removed in the ROC book (4/8/23) as plots produced by `plotly` do not compile when using this format. 
+# Documentation formats: HTML and PDF 
 
 
-* HTML documentation for the `RJafroc` software (i.e., datasets, functions and update history) is available [here](https://dpc10ster.github.io/RJafroc/). The software is fairly stable and undergoing occasional updates. 
+* `RJafroc` software:
+    + HTML documentation (i.e., datasets, functions and update history, etc.) is available [here](https://dpc10ster.github.io/RJafroc/). The software is fairly stable and undergoing occasional updates. 
 
-* The HTML online book `RJafrocQuickStart` is available [here](https://dpc10ster.github.io/RJafrocQuickStart/). Go [here](https://github.com/dpc10ster/RJafrocQuickStart/blob/gh-pages/RJafrocQuickStart.pdf) and then click on `Download` to get the `RJafrocQuickStart.pdf` file. 
+* `RJafrocQuickStart` book:
+    + The HTML online book is available [here](https://dpc10ster.github.io/RJafrocQuickStart/). 
+    + The PDF online book is available [here](https://github.com/dpc10ster/RJafrocQuickStart/blob/gh-pages/RJafrocQuickStart.pdf) (click on the `Download` link to get the pdf file). 
 
-* The HTML online book `RJafrocRocBook` is available [here](https://dpc10ster.github.io/RJafrocRocBook/).  
+* `RJafrocRocBook` book:
+    + The HTML online book is available [here](https://dpc10ster.github.io/RJafrocRocBook/). The pdf file output has been removed in this book (4/8/23) as plots produced by `plotly` do not compile when using this format. 
 
-* The HTML online book `RJafrocSigTestBook` is available [here](https://dpc10ster.github.io/RJafrocSigTestBook/). Go [here](https://github.com/dpc10ster/RJafrocSigTestBook/blob/gh-pages/RJafrocSigTestBook.pdf) and click on `Download` to get the `RJafrocSigTestBook.pdf` file. 
+* `RJafrocSigTestBook` book:
+    + The HTML online book is available [here](https://dpc10ster.github.io/RJafrocSigTestBook/). 
+    + The PDF online book is available [here](https://github.com/dpc10ster/RJafrocSigTestBook/blob/gh-pages/RJafrocSigTestBook.pdf) (click on the `Download` link to get the pdf file). 
 
-* The HTML online book `RJafrocFrocBook` is available [here](https://dpc10ster.github.io/RJafrocFrocBook/). Go [here](https://github.com/dpc10ster/RJafrocFrocBook/blob/gh-pages/RJafrocFrocBook.pdf) and then click on `Download` to get the `RJafrocFrocBook.pdf` file. 
+* `RJafrocFrocBook` book:
+    + The HTML online book is available [here](https://dpc10ster.github.io/RJafrocFrocBook/). 
+    + The PDF online book is available [here](https://github.com/dpc10ster/RJafrocFrocBook/blob/gh-pages/RJafrocFrocBook.pdf) (click on the `Download` link to get the pdf file). 
+
+# Note
 
 The online books are under development and parts marked TBA (to be added) should be ignored. Each chapter has a **How Much Finished (HMF)** section giving a rough idea of the extent to which that chapter has been completed. I expect to complete the books in about three years (~Dec 2025).
 
