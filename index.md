@@ -82,7 +82,7 @@ Knowing the individual performances allows principled optimization of reader or 
 
 * `RJafroc` extends Windows `JAFROC` software and runs on multiple platforms.
 * Originally uploaded in 2004, the Windows software is many generations behind `RJafroc` software. The online book available [here](https://dpc10ster.github.io/RJafrocQuickStart/) should allow one to quickly transition to `RJafroc`.
-* However, many users find the Windows JAFROC` software both easy to use and useful. If you still need Windows `JAFROC` software it is still available [here](https://github.com/dpc10ster/WindowsJafroc).
+* However, many users find the Windows JAFROC software both easy to use and useful. If you still need Windows `JAFROC` software it is still available [here](https://github.com/dpc10ster/WindowsJafroc).
 
 
 # A note on the online distribution mechanism of the book {-}
