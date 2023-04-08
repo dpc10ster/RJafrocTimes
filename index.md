@@ -1,5 +1,5 @@
 ---
-title: Welcome to Dev Chakraborty's AI/FROC Research
+title: Welcome to Dev Chakraborty's AI/FROC Research Dissemination Platform
 author: Dev P. Chakraborty (dpc10ster@gmail.com)
 ---
 
