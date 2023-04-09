@@ -5,7 +5,7 @@ author: Dev P. Chakraborty (dpc10ster@gmail.com)
 
 # Overview
 
-This website is intended as a documentation and blogging platform for my AI/FROC research interests. 
+This website is intended to provide an overview of the relevant repositories in my GitHub account (dpc10ster) and as a documentation and blogging platform for my research. 
 
 # Glossary
 
